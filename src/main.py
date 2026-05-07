@@ -1,0 +1,1 @@
+print("Atividade Prática: O Desafio da Baseline - GCS")
