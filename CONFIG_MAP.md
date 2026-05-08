@@ -5,7 +5,7 @@ Abaixo estão listados os ICs controlados neste projeto:
 * **Código Fonte:** `src/main.py`
 * **Documentação:** `README.md` e `CONFIG_MAP.md`
 * **Arquivos de Configuração:** `config/config.env`
-* **Ambiente de Desenvolvimento:** VS Code, Ubuntu, Git
+* **Dependências:** Não há.
 
 ## 2. Política de Nomenclatura de Versões
 Este projeto utiliza o **Versionamento Semântico (SemVer)** no formato `MAJOR.MINOR.PATCH`:
