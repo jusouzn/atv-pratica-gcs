@@ -1,5 +1,7 @@
 # atv-pratica-gcs
 
+**Versão Atual:** v1.0.0
+
 Repositório dedicado à atividade prática "O Desafio da Baseline".
 
 * **Instituição:** Universidade Federal de Goiás (UFG) - Instituto de Informática (INF)
